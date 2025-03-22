@@ -1,0 +1,1 @@
+import{_ as o}from"./1jS2fGAU.js";import{_ as n,c as a,a as r,b as s,w as _,F as c,o as d,d as l}from"./COh_s6Ps.js";const m={};function f(p,e){const t=o;return d(),a(c,null,[e[1]||(e[1]=r("h1",null,"Страница 1",-1)),s(t,{to:"/page-two"},{default:_(()=>e[0]||(e[0]=[l("Перейти на страницу 2")])),_:1})],64)}const i=n(m,[["render",f]]);export{i as default};
